@@ -17,3 +17,4 @@
 
 - Se por acaso bater em alguma estrela ou sair do limite da tela você perde o jogo.
 
+- Com o ganhar de estrelas o jogo vai acelerando..
